@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=Preetham0000&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=YasinzHyper&style=for-the-badge">
   </a>
 </div>
 
